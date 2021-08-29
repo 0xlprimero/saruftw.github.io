@@ -13,7 +13,7 @@ I work in computer security and software engineering. My interests lie in networ
 </p>
 
 <p>
-<i>Social: </i> <a href="https://twitter.com/lprimeroo" target="_blank">Twitter</a>, <a href="https://www.goodreads.com/lprimeroo" target="_blank">Goodreads</a>, <a href="mailto:sarthakm@pm.me" target="_blank">Email</a>
+<i>Social: </i> <a href="https://twitter.com/lprimeroo" target="_blank">Twitter</a>, <a href="https://www.goodreads.com/lprimeroo" target="_blank">Goodreads</a>, <a href="https://steamcommunity.com/profiles/76561198053988062" target="_blank">Steam</a>, <a href="https://github.com/lprimeroo" target="_blank">Github</a>, <a href="mailto:sarthakm@pm.me" target="_blank">Email</a>
 </p>
  </section>
 
